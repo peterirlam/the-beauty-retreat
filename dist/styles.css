@@ -101,3 +101,26 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+/*========== CLASS CSS ==========*/
+.section {
+  padding: 4rem 0 2rem;
+}
+.section-title, .section-subtitle {
+  text-align: center;
+}
+.section-title {
+  font-size: var(--h1-font-size);
+  color: var(--title-color);
+  margin-bottom: var(--mb-3);
+  line-height: 1.4;
+}
+.section-title-mt {
+  margin-top: var(--mt);
+}
+.section-subtitle {
+  display: block;
+  color: var(--first-color);
+  font-weight: var(--font-medium);
+  margin-bottom: var(--mb-1);
+}
