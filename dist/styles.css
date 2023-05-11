@@ -257,3 +257,30 @@ img {
   border-radius: 0.5rem;
   justify-self: center;
 }
+
+/*========== BUTTONS ==========*/
+.button {
+  display: inline-block;
+  background-color: var(--first-color);
+  color: #FFF;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  transition: 0.3s;
+}
+.button:hover {
+  background-color: var(--first-color-alt);
+}
+
+/*========== ABOUT ==========*/
+.about__data {
+  text-align: center;
+}
+.about__description {
+  margin-bottom: var(--mb-3);
+}
+.about__img {
+  width: 280px;
+  border-radius: 0.5rem;
+  justify-self: center;
+}
+
