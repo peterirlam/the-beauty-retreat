@@ -1,5 +1,5 @@
 
 # 💻 &nbsp; The Beauty Business
 
-# 📖 &nbsp; Description 
+# 📖 &nbsp; Description: full readme coming soon...
 
