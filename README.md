@@ -26,3 +26,13 @@ Fiverr.com seemed a great choice and after spending a good deal of time creating
 business wishing to take the next step by adding an online presence.
 
 Check out my Fiverr account [here](https://www.fiverr.com/peterirlam/build-a-modern-responsive-website-with-unique-custom-code-no-templates?context_referrer=collection_page&ref_ctx_id=3227cdda1277e646c3312b74babb37ce&pckg_id=1&pos=1&imp_id=fbe23ded-e466-4a04-9071-4bf426ec0e95)
+
+## 🏗️ &nbsp; How I Worked on This Project
+
+- This project was ordered by a freelance client onFiverr.com. 
+- I began the process with a free dedicated strategy session with my client to discuss the project, type of website including personality, look & feel, 
+marketing goals and ways of achieving them. 
+- I advised on branding colours, layout and I also provided all images free of charge.
+- I updated my client regularly with 'milestones'.
+- I worked with tasks using Trello as a project management tool
+- I completed and shipped the finished project almost a day before the deadline.
