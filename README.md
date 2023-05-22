@@ -16,7 +16,7 @@ Live view by clicking the badge (use Ctrl/Cmd + Shift to open a new window): [![
 ✅ Sass <br>
 ✅ JavaScript 
 
-## 🎱 &nbsp; Why I Chose This Project
+## ⚖️ &nbsp; Why I Chose This Project
 
 As a self-taught, junior web developer, I have demonstrated my skills through plenty of personal projects. 
 However, I also needed to evidence commercial experience working on real projects for real clients, meeting their specifications and 
